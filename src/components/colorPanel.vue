@@ -2,7 +2,7 @@
 <div class="colorPanel">
   <div class="color" :style="colorStyle"></div>
   <div class="info">
-    <div color="name">
+    <div class="name">
       {{ name }}
     </div>
     <div class="format">
